@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+}*/
 
 .header{
   display: flex;
@@ -44,15 +44,3 @@
   background-color:azure;
 }
 
-.login-signup{
-  display: flex;
-  margin: 16px;
-}
-
-.login-button{
-  padding-left: 20px;
-}
-
-.icon{
-  letter-spacing: 2px;
-}

@@ -1,0 +1,21 @@
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+    font-family:Verdana;
+}
+
+.loginbutton{
+    padding: 8px 16px;
+    margin: 16px 2px;
+    border-color: rgb(191, 191, 166);
+    background-color: rgb(242, 245, 229);
+    border-radius: 5px;
+}
+
+.signupbutton{
+    padding: 8px 16px;
+    margin: 16px 2px;
+    border-radius: 5px;
+    background-color: rgb(191, 191, 166);;
+    border-color:rgb(242, 245, 229);
+}
